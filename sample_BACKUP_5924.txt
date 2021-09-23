@@ -1,6 +1,5 @@
 hello this is my first git experience
 <<<<<<< HEAD
-
 hi, i m testing git merge conflict and resolving the issue.
 =======
 this time i am adding new line from my local machine to bring conflict while you are merging these local files with the files there in server.

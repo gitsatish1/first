@@ -1,0 +1,2 @@
+hello this is my first git experience
+hi, i m testing git merge conflict and resolving the issue.
